@@ -1,2 +1,5 @@
 build/
-*.txt.user
+*.txt.use*
+jsgentest/
+Testtarget/build/
+ext/cppast/

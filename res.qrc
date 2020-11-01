@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>templates/function.tpl</file>
+        <file>templates/init-head.tpl</file>
+        <file>templates/handler1.tpl</file>
+        <file>templates/init.tpl</file>
+        <file>templates/class.tpl</file>
+    </qresource>
+</RCC>
